@@ -492,3 +492,4 @@ IP-CIDR,208.185.115.0/24,no-resolve
 IP-CIDR,210.155.101.0/24,no-resolve
 IP-CIDR,211.237.6.0/24,no-resolve
 IP-CIDR,224.0.0.0/4,no-resolve
+IP-CIDR,43.229.66.49/32,no-resolve

@@ -1,1 +1,1 @@
-aHR0cDovL2RpYW5oc3UudG9wOjgwODA=
+tg://http?server=1.2.3.4&port=233&user=user&pass=pass&remark=Example

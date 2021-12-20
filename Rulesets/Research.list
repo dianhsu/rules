@@ -1,0 +1,14 @@
+# Google 学术
+
+DOMAIN-SUFFIX,scholar.google.com
+
+# Python 源
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,files.pythonhosted.org
+
+# Pytorch
+DOMAIN-SUFFIX,pytorch.org
+
+# ArXiv
+
+DOMAIN-SUFFIX,arxiv.org

@@ -1,1 +1,2 @@
 # rules
+This repo is proxy rules for [clash](https://github.com/Dreamacro/clash). Besides [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) rules, I add some custom rules. Please use it with [ACL4SSR Online Subscribe Converter](https://acl4ssr-sub.github.io/). Thanks!

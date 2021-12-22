@@ -12,3 +12,7 @@ DOMAIN-SUFFIX,pytorch.org
 # ArXiv
 
 DOMAIN-SUFFIX,arxiv.org
+
+# Xilinx
+
+DOMIAN-SUFFIX,xilinx.com
